@@ -1,2 +1,2 @@
 # SQLiter
-R package with helper functions for working with SQLite databases.
+A few handy functions for lite work with SQLite in the R programming language.
