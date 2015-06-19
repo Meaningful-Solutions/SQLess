@@ -1,11 +1,11 @@
-Package: SQLiter
+Package: SQLess
 Type: Package
 Title: A few handy functions for lite work with SQLite
 Version: 0.1
 Date: 2015-06-17
 Author: Bill -Chopper- Genne
 Maintainer: Developer <developer@meaningful-solutions.com>
-Description: A few handy functions for lite work with SQLite in the R programming language.
+Description: Less is More. A few handy functions for working with SQLite in the R programming language.
 License: Apache 2.0
 Depends:
   RSQLite

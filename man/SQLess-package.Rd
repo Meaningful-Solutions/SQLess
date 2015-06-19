@@ -1,6 +1,6 @@
-\name{SQLiter-package}
-\alias{SQLiter-package}
-\alias{SQLiter}
+\name{SQLess-package}
+\alias{SQLess-package}
+\alias{SQLess}
 \docType{package}
 \title{
 A few handy functions for lite work with SQLite
@@ -10,7 +10,7 @@ A few handy functions for lite work with SQLite
 }
 \details{
 \tabular{ll}{
-Package: \tab SQLiter\cr
+Package: \tab SQLess\cr
 Type: \tab Package\cr
 Version: \tab 0.1\cr
 Date: \tab 2015-06-17\cr
